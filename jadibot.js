@@ -113,7 +113,7 @@ const jadibot = async (msg, conn) => {
       let { version, isLatest } = await fetchLatestBaileysVersion();
       const conn = await makeWaSocket({
         auth: state,
-        browser: [`TheLoliBot-MD`, "Chrome", "1.0.0"],
+        browser: [`Shizu-Hub`, "Chrome", "1.0.0"],
 	    	logger: log({ level: "silent" }),
 	    	version,
       })
@@ -129,7 +129,7 @@ const jadibot = async (msg, conn) => {
           if (connection != "connecting") console.log("Conexión a Jadibot..")
         }
         console.log(up)
-        if(up.qr) await sendFile(msg.from, await qrcode.toDataURL(up.qr,{scale : 8}),"", '*🔰 The LoliBot-MD 🔰*\nㅤㅤㅤㅤ*Ser sub bot*\n\n*Con otro telefono que tengas o en la PC escanea este QR para convertirte en un sub bot*\n\n*1. Haga clic en los tres puntos en la esquina superior derecha*\n*2. Toca WhatsApp Web*\n*3. Escanee este codigo QR*\n*Este código QR expira en 20 segundos!*\n\n*⚠️ No nos hacemos responsable del mal uso que se le pueda dar o si el numero se manda a soporte.. ustedes tienen el deber se seguir al pie de la letra los terminos y condiciones', msg)
+        if(up.qr) await sendFile(msg.from, await qrcode.toDataURL(up.qr,{scale : 8}),"", '*🔰 WaBot-MD 🔰*\nㅤㅤㅤㅤ*Ser sub bot*\n\n*Con otro telefono que tengas o en la PC escanea este QR para convertirte en un sub bot*\n\n*1. Haga clic en los tres puntos en la esquina superior derecha*\n*2. Toca WhatsApp Web*\n*3. Escanee este codigo QR*\n*Este código QR expira en 20 segundos!*\n\n*⚠️ No nos hacemos responsable del mal uso que se le pueda dar o si el numero se manda a soporte.. ustedes tienen el deber se seguir al pie de la letra los terminos y condiciones', msg)
         console.log(connection)
         if (connection == "open") {
           conn.id = decodeJid(conn.user.id)
