@@ -1,0 +1,19 @@
+{
+  "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
+  "namebot": "The whatbot-MD",
+  "botNumber": "12269101979@s.whatsapp.net",
+  "owner": ["5492266466080@s.whatsapp.net"],
+  "instagram": "_",
+  "author": "elrebelde",
+  "session": "session.data",
+  "email": "thelolibotm@gmail.com",
+  "self": false,
+  "packInfo":{
+    "packname": "",
+    "author": "Beta ✓"
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "america/argentina"
+}
