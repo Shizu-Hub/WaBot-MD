@@ -34,3 +34,47 @@
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+  
+  ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
+- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```bash
+> cd
+> termux-setup-storage
+> apt update 
+> pkg upgrade 
+> pkg install git -y
+> pkg install nodejs -y
+> pkg install ffmpeg -y
+> pkg install imagemagick -y
+> pkg install yarn
+> git clone https://github.com/Shizu-Hub/WaBot-MD
+> cd WaBot-MD
+> yarn install 
+> npm install
+> npm update
+> npm install 
+> npm start
+```
+
+### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd WaBot-MD
+> npm start
+```
+
+### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
+- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Shizu-Termux $  
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd Shizu-Termux
+> rm -rf WaBot-MDSession
+> npm start
+```
+
+  ## `EDITOR Y PORPIETARIO DEL BOT` 
+<a href="https://github.com/Shizu-Hub"><img src="https://github.com/Shizu-Hub.png" width="300" height="300" alt="Shizu"/></a>
+
+`WaBot-MD _ By Shizu Hub`
