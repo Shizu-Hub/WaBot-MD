@@ -8,7 +8,7 @@
 </div>
 
 <p align="center"> 
-  <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=QUIERES+TENER+TU+,BOT+ACTIVO+27/7?;EN+ESE+CASO+;ACIDICNODES+ES+TU+SOLUCION+:v+%F0%9F%91%8B" height="70px"
+  <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=QUIERES+TENER+TU+BOT+ACTIVO+27/7?;EN+ESE+CASO+;ACIDICNODES+ES+TU+SOLUCION+:v+%F0%9F%91%8B" height="70px"
 </p>
 <p align="hihg">   
 <a href="https://billing.acidicnodes.ml/register?ref=nSzLjTPd" target="_blank"> <img src="https://img.shields.io/badge/-acidicnodes-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=yellow" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
