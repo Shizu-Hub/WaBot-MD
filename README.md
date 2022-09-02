@@ -43,7 +43,7 @@
 > pkg install git
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
-> git clone https://github.com/elrebelde21/WaBot-MD
+> git clone https://github.com/Shizu-Hub/WaBot-MD
 > cd WaBot-MD
 > npm install
 > npm start
