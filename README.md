@@ -38,21 +38,14 @@
   ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
-> cd
-> termux-setup-storage
-> apt update 
-> pkg upgrade 
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> pkg install yarn
-> git clone https://github.com/Shizu-Hub/WaBot-MD
+> pkg install
+> pkg upgrade
+> pkg install git
+> pkg install ffmpeg && pkg install libwebp
+> pkg install nodejs
+> git clone https://github.com/elrebelde21/WaBot-MD
 > cd WaBot-MD
-> yarn install 
 > npm install
-> npm update
-> npm install 
 > npm start
 ```
 
